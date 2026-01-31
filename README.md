@@ -39,3 +39,13 @@ The main goal was to build a **modern**, **responsive**, and **user-friendly** a
 ├── index.html
 ├── package.json
 └── vite.config.js
+```
+## 📸 Preview
+
+![Home Page](./Readme/Portifolio.png)
+
+
+npm run dev
+
+open 
+http://localhost:5173
